@@ -1,0 +1,12 @@
+openai
+langchain
+langchain-community
+azure-identity
+azure-keyvault-secrets
+azure-storage-blob
+pandas
+tiktoken
+pydantic
+fastapi
+uvicorn
+python-dotenv
